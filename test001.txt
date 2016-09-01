@@ -1,0 +1,7 @@
+     1	total 32
+     2	drwxr-xr-x  3 u0019508  staff   204 Sep  1 09:47 .
+     3	drwxr-xr-x@ 5 u0019508  staff   272 Sep  1 09:48 ..
+     4	-rw-r--r--@ 1 u0019508  staff  6148 Sep  1 09:46 .DS_Store
+     5	drwxr-xr-x  7 u0019508  staff   408 Sep  1 09:48 .git
+     6	-rw-r--r--  1 u0019508  staff    40 Sep  1 09:45 .sparkleshare
+     7	-rw-r--r--  1 u0019508  staff   421 Sep  1 09:47 SparkleShare.txt
